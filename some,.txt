@@ -1,0 +1,21 @@
+Добавляю данный .txt файл, чтобы было хоть что-то что загрузиться на GitHub + дабы описать все действия что я провел. 
+
+1 - создал новую папку на компьютере, добавил файлы и папки из описания ДЗ 
+
+2 - прописал в терминале инициализацию Git (git init)
+
+3 - создал файл .gitignore и вписал туда все файлы что требовалось игнорировать 
+
+4 - добавил файлы на локальный репозиторий (git add . -> git commit -m "first commit")
+
+5 - создал новую ветку проекта под названием myBlog (git branch myBlog), затем перешел в нее (git checkout myBlog)
+
+6 - создал нужную папку blog и добавил в нее index.js / index.html, затем выгрузил их на локальный репозиторий (git add . -> git commit "adding index.js / index.html")
+
+7 - перешел назад в ветку master 
+
+8 - на gitHub нажал new repository, сделал его public, Назвал homework-for-course
+
+9 - прописал в терминале подключение к origin (git remote add origin https://github.com/Ponickhi/homework-for-course.git) 
+
+10 - выгрузил только ветку master не проводя слияния двух веток (git push -u origin master)
