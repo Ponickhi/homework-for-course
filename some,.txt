@@ -19,3 +19,8 @@
 9 - прописал в терминале подключение к origin (git remote add origin https://github.com/Ponickhi/homework-for-course.git) 
 
 10 - выгрузил только ветку master не проводя слияния двух веток (git push -u origin master)
+
+
+(Добавляю адрес на данный текстовый файл на gitHub, чтобы вы могли на его примере убедиться что он был загружен на портал с помощью вышеперечисленного, надеюсь я правильно понял домашнее задание)
+
+https://github.com/Ponickhi/homework-for-course
